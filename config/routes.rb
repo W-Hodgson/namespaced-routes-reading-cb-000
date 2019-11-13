@@ -11,3 +11,9 @@ Rails.application.routes.draw do
 
   root 'posts#index'
 end
+
+
+def fib(n)
+
+
+end
